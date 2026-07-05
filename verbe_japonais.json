@@ -1,0 +1,20 @@
+[
+    { "kanji": "食べる", "hiragana": "たべる", "translation": "Manger" },
+    { "kanji": "飲む", "hiragana": "のむ", "translation": "Boire" },
+    { "kanji": "行く", "hiragana": "いく", "translation": "Aller" },
+    { "kanji": "来る", "hiragana": "くる", "translation": "Venir" },
+    { "kanji": "見る", "hiragana": "みる", "translation": "Regarder" },
+    { "kanji": "聞く", "hiragana": "きく", "translation": "Écouter" },
+    { "kanji": "話す", "hiragana": "はなす", "translation": "Parler" },
+    { "kanji": "読む", "hiragana": "よむ", "translation": "Lire" },
+    { "kanji": "書く", "hiragana": "かく", "translation": "Écrire" },
+    { "kanji": "立つ", "hiragana": "たつ", "translation": "Se lever" },
+    { "kanji": "座る", "hiragana": "すわる", "translation": "S'asseoir" },
+    { "kanji": "寝る", "hiragana": "ねる", "translation": "Dormir" },
+    { "kanji": "起きる", "hiragana": "おきる", "translation": "Se réveiller" },
+    { "kanji": "見せる", "hiragana": "みせる", "translation": "Montrer" },
+    { "kanji": "持つ", "hiragana": "もつ", "translation": "Tenir" },
+    { "kanji": "待つ", "hiragana": "まつ", "translation": "Attendre" },
+    { "kanji": "帰る", "hiragana": "かえる", "translation": "Rentrer" },
+    { "kanji": "出す", "hiragana": "だす", "translation": "Sortir"}
+]

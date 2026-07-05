@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apprentissage du Japonais</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Apprentissage du Japonais</h1>
+        <div class="mode-selector">
+            <button id="free-mode">Mode Libre</button>
+            <button id="quiz-mode">Mode Quiz</button>
+            <button id="import-words">Importer des mots</button>
+        </div>
+        <div class="file-list" id="file-list"></div>
+        <div class="card-container" id="card-container"></div>
+        <div class="quiz-container" id="quiz-container">
+            <h2>Mode Quiz</h2>
+            <div class="file-names-container" id="file-names-container"></div>
+            <div class="checkbox-container" id="checkbox-container"></div>
+            <button id="start-quiz">Commencer le Quiz</button>
+            <div class="quiz-question" id="quiz-question"></div>
+            <div class="quiz-options" id="quiz-options"></div>
+            <button id="submit-answer" style="display: none;">Soumettre</button>
+            <div id="quiz-result"></div>
+        </div>
+    </div>
+    <input type="file" id="file-input" accept=".json" style="display: none;">
+    <script src="script.js"></script>
+</body>
+</html>
